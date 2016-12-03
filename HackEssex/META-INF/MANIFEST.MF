@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Class-Path: Required/webcam-capture-0.3.10.jar Required/bridj-0.6.2.jar Required/slf4j-nop-1.7.21
+ .jar Required/slf4j-api-1.7.2.jar
+Main-Class: MainR
+
